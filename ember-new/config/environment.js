@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-drive',
+    modulePrefix: 'ember-new',
     environment,
     rootURL: '/',
     locationType: 'auto',
