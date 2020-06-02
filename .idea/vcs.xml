@@ -3,5 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ember-drive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ember-new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-gist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/people-tracker" vcs="Git" />
   </component>
 </project>
